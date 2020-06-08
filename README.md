@@ -1,0 +1,2 @@
+# plural-reactnative
+from pc
