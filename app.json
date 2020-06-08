@@ -1,0 +1,17 @@
+{
+  "name": "globo1a",
+  "displayName": "globo1a",
+  "expo": {
+    "name": "globo1a",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
